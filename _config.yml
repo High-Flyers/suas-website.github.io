@@ -14,15 +14,15 @@
 #theme: jekyll-agency
 
 url    : https://highflyers.github.io # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "https://highflyers.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : High Flyers
 email      : highflyers.polsl@gmail.com  #this is also the email contact forms will go to
 description: "Site description"
 author     : Your Name
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+logo:     #optional, defaults to site title
+    path: assets\img\logo2.png
+    height: 80 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
