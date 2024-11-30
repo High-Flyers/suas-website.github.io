@@ -52,17 +52,17 @@ en: &DEFAULT_EN
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
+        url: https://facebook.com/high.flyers.polsl
+        logo: assets/img/clients/sponsor.jpg
       - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
+        url: https://facebook.com/high.flyers.polsl
+        logo: assets/img/clients/sponsor.jpg
       - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
+        url: https://facebook.com/high.flyers.polsl
+        logo: assets/img/clients/sponsor.jpg
       - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+        url: https://facebook.com/high.flyers.polsl
+        logo: assets/img/clients/sponsor.jpg
 
   team:
     title: "OUR AMAZING TEAM"
@@ -182,17 +182,17 @@ es: &DEFAULT_ES
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
+        url: https://facebook.com/high.flyers.polsl
+        logo: assets/img/clients/sponsor.jpg
       - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
+        url: https://facebook.com/high.flyers.polsl
+        logo: assets/img/clients/sponsor.jpg
       - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
+        url: https://facebook.com/high.flyers.polsl
+        logo: assets/img/clients/sponsor.jpg
       - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+        url: https://facebook.com/high.flyers.polsl
+        logo: assets/img/clients/sponsor.jpg
 
   team:
     title: "NUESTRO INCREÍBLE EQUIPO"
@@ -307,17 +307,17 @@ de: &DEFAULT_DE
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
+        url: https://facebook.com/high.flyers.polsl
+        logo: assets/img/clients/sponsor.jpg
       - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
+        url: https://facebook.com/high.flyers.polsl
+        logo: assets/img/clients/sponsor.jpg
       - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
+        url: https://facebook.com/high.flyers.polsl
+        logo: assets/img/clients/sponsor.jpg
       - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+        url: https://facebook.com/high.flyers.polsl
+        logo: assets/img/clients/sponsor.jpg
 
   team:
     title: "Unser großartiges Team"
