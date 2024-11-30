@@ -105,7 +105,6 @@ en: &DEFAULT_EN
     title: "Contact Us"
     text: >
           e-mail: highflyers.polsl.gmail.com
-          Send a message directly:
 
     section: contact
     name: "Name*"

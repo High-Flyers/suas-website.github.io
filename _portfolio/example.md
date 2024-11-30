@@ -12,10 +12,10 @@ alt: image alt text
 ---
 Use this area to describe your project. **Markdown** supported.
 
-optional info list (delete if not using):
+optional info list:
 
 {:.list-inline} 
+- Author: 
 - Date: 
-- Client: 
-- Category: 
+- Purpose: 
 
